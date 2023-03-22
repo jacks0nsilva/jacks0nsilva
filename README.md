@@ -28,10 +28,4 @@ Tenho 21 anos, sou de Feira de Santana/BA e sou apaixonado por desenvolvimento w
 
 <br>
 <br>
-<p align="center">
-<a href="https://github.com/jacks0nsilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacks0nsilva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacks0nsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
 
-![Snake animation](https://github.com/jacks0nsilva/jacks0nsilva/blob/output/github-contribution-grid-snake.svg)
