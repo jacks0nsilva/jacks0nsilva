@@ -12,7 +12,7 @@
 
 ## Bem-vindo(a) ao meu perfil do GitHub 👋
 
-Tenho 21 anos, sou de Feira de Santana/BA e sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em JavaScript!
+Tenho 22 anos, sou de Feira de Santana/BA e sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em JavaScript!
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
