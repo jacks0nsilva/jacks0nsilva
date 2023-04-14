@@ -1,33 +1,53 @@
-# Jackson Silva
+###  Olá, meu nome é <strong>Jackson!</strong>
 
-<a href="https://www.instagram.com/jacks0n_ss/">
-    <img  width="80px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="instagram">
-</a>
+Sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em JavaScript!
 
+## Mais sobre mim
+
+<img align="right" width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+
+```kotlin
+object **Jackson** {
+ val name = "Jackson Silva"
+ val acknowledgements = "Front End"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("JavaScript", "CSS", "HTML", "Styled Componentes", "React", "React router dom") 
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,vite)](https://skillicons.dev)
 <!--
-<img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-<img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-<img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+https://github.com/tandpfun/skill-icons
 -->
 
-## Bem-vindo(a) ao meu perfil do GitHub 👋
+## **GitHub Estatísticas**
 
-Meu nome é Jackson, tenho 22 anos e sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em JavaScript!
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacks0nsilva&theme=dracula&hide_langs_below=1" />
+</a>
 
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacks0nsilva&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
-### 🖥️ Tecnologias e Ferramentas:
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
-<br>
-<a href="https://github.com/jacks0nsilva?tab=repositories"> Acesse meu repositório </a>
+[twitter]: https://twitter.com/SEUTWITTER
+[instagram]: https://www.instagram.com/jacks0n_ss/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
+#### Rede Sociais!
+
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
