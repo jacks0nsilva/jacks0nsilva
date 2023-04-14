@@ -4,7 +4,7 @@ Sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento
 
 ## Mais sobre mim
 
-<img align="right" width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<img  max-width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
 ```kotlin
 object **Jackson** {
