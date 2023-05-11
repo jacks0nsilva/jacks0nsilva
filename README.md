@@ -42,7 +42,7 @@ https://github.com/tandpfun/skill-icons
 
 [twitter]: https://twitter.com/SEUTWITTER
 [instagram]: https://www.instagram.com/jacks0n_ss/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/jacksonn-silva/
 <br>
 
 #### Rede Sociais!
