@@ -1,6 +1,6 @@
 ###  Olá, meu nome é <strong>Jackson!</strong>
 
-Sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em JavaScript!
+Sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em C#!
 
 ## Mais sobre mim
 
