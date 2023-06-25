@@ -1,20 +1,21 @@
 ###  Olá, meu nome é <strong>Jackson!</strong>
 
-Sou apaixonado por desenvolvimento web! Sou iniciante nesse universo, no momento estou aprofundando meus conhecimentos em Typescript e .Net com C#!
+**Sou um entusiasta em TI, cinéfilo e apaixonado pela cultura geek.**
 
 ## Mais sobre mim
 
-<img  max-width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-```kotlin
-object **Jackson** {
- val name = "Jackson Silva"
- val acknowledgements = "Front End"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "CSS", "HTML", "Styled Componentes", "React", "React router dom") 
-}
-```
+
+````js
+ {
+  name: "Jackson",
+  area: "Frond end",
+  college: "UNIFAEL",
+  languages: ["HTML", "CSS", "JavaScript", "Typescript", "C#"],
+  library: ["React", "Styled-Components", "react router dom"]
+ }
+````
+<img  max-width="120" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
 ## **Linguagens e Ferramentas:**  
 
@@ -51,3 +52,4 @@ https://github.com/tandpfun/skill-icons
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
