@@ -1,4 +1,4 @@
-###  Olá, meu nome é <strong>Jackson!</strong>
+#  Olá, meu nome é <strong>Jackson!</strong>
 
 **Sou um entusiasta em TI, cinéfilo e apaixonado pela cultura geek.**
 
@@ -11,6 +11,7 @@
   name: "Jackson",
   area: "Frond end",
   college: "UNIFAEL",
+  course: "Análise e Desenvolvimento de Sistemas",
   languages: ["HTML", "CSS", "JavaScript", "Typescript", "C#"],
   library: ["React", "Styled-Components", "react router dom"]
  }
