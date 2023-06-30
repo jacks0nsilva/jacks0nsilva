@@ -21,7 +21,7 @@
 ## **Linguagens e Ferramentas:**  
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,dotnet,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,styledcomponents)](https://skillicons.dev)
 <!--
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
