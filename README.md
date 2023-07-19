@@ -9,10 +9,10 @@
 ````js
  {
   name: "Jackson",
-  area: "Frond end",
+  area: "Back-end",
   college: "UNIFAEL",
   course: "Análise e Desenvolvimento de Sistemas",
-  languages: ["HTML", "CSS", "JavaScript", "Typescript", "C#"],
+  languages: ["C#", ".Net", "HTML", "CSS", "JavaScript", "Typescript",],
   library: ["React", "Styled-Components", "react router dom"]
  }
 ````
