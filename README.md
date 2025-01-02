@@ -12,7 +12,7 @@
   area: "Back-end",
   college: "UNIFAEL",
   course: "Análise e Desenvolvimento de Sistemas",
-  languages: ["C#", ".Net", "HTML", "CSS", "JavaScript", "Typescript",],
+  languages: ["C#", ".Net", "HTML", "CSS", "JavaScript", "Typescript", "C"],
   library: ["React", "Styled-Components", "react router dom"]
  }
 ````
